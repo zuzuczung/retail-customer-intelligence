@@ -1,0 +1,7 @@
+{
+  "valid_zip": true,
+  "chart_files": 24,
+  "dataset_files": 5,
+  "database_files": 1,
+  "contains_plain_database_password": false
+}

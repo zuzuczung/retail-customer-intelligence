@@ -1,0 +1,6 @@
+{
+  "database_id": true,
+  "datasets": true,
+  "charts": true,
+  "dashboard_id": true
+}

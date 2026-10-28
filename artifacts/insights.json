@@ -1,0 +1,81 @@
+{
+  "cohort": {
+    "returning_m1": 932,
+    "eligible_m1": 3970,
+    "m1_rate": "0.23476070528967254408",
+    "acquired": 4293
+  },
+  "rfm": {
+    "high_value_customers": 747,
+    "high_value_share": "0.63077583039830240706",
+    "at_risk": 278
+  },
+  "month_sales": [
+    {
+      "purchase_month": "2010-12-01",
+      "sales": "775572.23"
+    },
+    {
+      "purchase_month": "2011-01-01",
+      "sales": "670361.99"
+    },
+    {
+      "purchase_month": "2011-02-01",
+      "sales": "507783.42"
+    },
+    {
+      "purchase_month": "2011-03-01",
+      "sales": "689708.49"
+    },
+    {
+      "purchase_month": "2011-04-01",
+      "sales": "515354.78"
+    },
+    {
+      "purchase_month": "2011-05-01",
+      "sales": "739914.35"
+    },
+    {
+      "purchase_month": "2011-06-01",
+      "sales": "737558.98"
+    },
+    {
+      "purchase_month": "2011-07-01",
+      "sales": "688144.79"
+    },
+    {
+      "purchase_month": "2011-08-01",
+      "sales": "724196.76"
+    },
+    {
+      "purchase_month": "2011-09-01",
+      "sales": "1028313.80"
+    },
+    {
+      "purchase_month": "2011-10-01",
+      "sales": "1103310.96"
+    },
+    {
+      "purchase_month": "2011-11-01",
+      "sales": "1452112.69"
+    },
+    {
+      "purchase_month": "2011-12-01",
+      "sales": "614487.63"
+    }
+  ],
+  "outlier_cancellations": [
+    {
+      "invoice_no": "C581484",
+      "stock_code": "23843",
+      "quantity": -80995,
+      "line_value": "-168469.60"
+    },
+    {
+      "invoice_no": "C541433",
+      "stock_code": "23166",
+      "quantity": -74215,
+      "line_value": "-77183.60"
+    }
+  ]
+}

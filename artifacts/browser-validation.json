@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-28",
+  "surface": "Apache Superset local dashboard 26",
+  "pages_reviewed": [
+    "Tổng quan",
+    "Sản phẩm",
+    "Khách hàng",
+    "Giữ chân"
+  ],
+  "observed_all": {
+    "sales": "10246820.87",
+    "orders": 19773,
+    "known_customers": 4334,
+    "units": 5561280,
+    "products": 3900,
+    "adjustments": "475901.16",
+    "cohort_customers": 4293,
+    "retention_m1_display": "23.5%"
+  },
+  "observed_France": {
+    "sales": "184493.00",
+    "orders": 382,
+    "known_customers": 87,
+    "rfm_average_value_display": "2112.67",
+    "rfm_at_risk": 2,
+    "cohort_customers": 86,
+    "retention_m1_display": "30.0%"
+  },
+  "checks": [
+    "Native country filter changes metrics and matches SQL",
+    "RFM tab removes date filter from scope; country filter retained",
+    "Cohort empty future cells remain blank; observed 0% values retained",
+    "Product bar labels use stock codes; names remain in detail table",
+    "Axis values compact; KPI/table values retain precision",
+    "Overview restored to default country/time scope"
+  ],
+  "screenshots": [
+    "screenshots/overview.png",
+    "screenshots/products.png",
+    "screenshots/customers-france.png",
+    "screenshots/retention.png"
+  ],
+  "limitations": [
+    "No physical mobile-device inspection performed"
+  ]
+}

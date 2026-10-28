@@ -1,0 +1,51 @@
+{
+  "database_id": 4,
+  "datasets": {
+    "orders": 47,
+    "lines": 48,
+    "adjustments": 49,
+    "customers": 50,
+    "cohorts": 51
+  },
+  "charts": {
+    "sales": 304,
+    "orders": 305,
+    "known": 306,
+    "aov": 307,
+    "monthly-sales": 308,
+    "country-sales": 309,
+    "overview-products": 310,
+    "units": 311,
+    "products": 312,
+    "adjustments": 313,
+    "product-sales": 314,
+    "product-units": 315,
+    "product-detail": 316,
+    "rfm-customers": 317,
+    "rfm-avg": 318,
+    "rfm-risk": 319,
+    "segment-customers": 320,
+    "segment-sales": 321,
+    "customer-detail": 322,
+    "cohort-customers": 323,
+    "retention-m1": 324,
+    "cohort-heatmap": 325,
+    "retention-curve": 326,
+    "cohort-size": 327
+  },
+  "dashboard_id": 26,
+  "dashboard_url": "http://127.0.0.1:8088/superset/dashboard/retail-customer-intelligence/",
+  "pages": [
+    "Tổng quan",
+    "Sản phẩm",
+    "Khách hàng",
+    "Giữ chân"
+  ],
+  "source": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "palette": {
+    "navy": "#183153",
+    "teal": "#168C92",
+    "blue": "#4C78A8",
+    "amber": "#D89A28"
+  }
+}

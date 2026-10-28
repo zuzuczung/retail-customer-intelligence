@@ -1,0 +1,6 @@
+{
+  "can_read_analytics": true,
+  "can_read_staging": false,
+  "can_insert": false,
+  "can_create": false
+}

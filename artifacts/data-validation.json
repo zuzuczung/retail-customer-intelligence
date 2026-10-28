@@ -1,0 +1,230 @@
+{
+  "classes": {
+    "duplicate": 5268,
+    "invalid_price": 2480,
+    "negative_adjustment": 8668,
+    "non_merchandise": 2989,
+    "sale": 522504
+  },
+  "checks": [
+    {
+      "name": "source rows",
+      "actual": "541909",
+      "expected": "541909",
+      "passed": true
+    },
+    {
+      "name": "sales invoices",
+      "actual": "19773",
+      "expected": "19773",
+      "passed": true
+    },
+    {
+      "name": "gross source to orders",
+      "actual": "10246820.87",
+      "expected": "10246820.87",
+      "passed": true
+    },
+    {
+      "name": "gross lines to orders",
+      "actual": "10246820.87",
+      "expected": "10246820.87",
+      "passed": true
+    },
+    {
+      "name": "known customers",
+      "actual": "4334",
+      "expected": "4334",
+      "passed": true
+    },
+    {
+      "name": "snapshot customers",
+      "actual": "4334",
+      "expected": "4334",
+      "passed": true
+    },
+    {
+      "name": "negative adjustments",
+      "actual": "-475901.16",
+      "expected": "-475901.16",
+      "passed": true
+    },
+    {
+      "name": "classification duplicate",
+      "actual": "5268",
+      "expected": "5268",
+      "passed": true
+    },
+    {
+      "name": "classification sale",
+      "actual": "522504",
+      "expected": "522504",
+      "passed": true
+    },
+    {
+      "name": "classification negative_adjustment",
+      "actual": "8668",
+      "expected": "8668",
+      "passed": true
+    },
+    {
+      "name": "classification non_merchandise",
+      "actual": "2989",
+      "expected": "2989",
+      "passed": true
+    },
+    {
+      "name": "classification invalid_price",
+      "actual": "2480",
+      "expected": "2480",
+      "passed": true
+    },
+    {
+      "name": "classification other",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "name": "order grain attributes",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "name": "orphan product",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "name": "cohort invalid rate",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "name": "cohort M0",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "name": "cohort immature",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    },
+    {
+      "name": "RFM nonpositive purchases",
+      "actual": "0",
+      "expected": "0",
+      "passed": true
+    }
+  ],
+  "totals": {
+    "orders": 19773,
+    "gross": "10246820.87",
+    "customers": 4334
+  },
+  "coverage": {
+    "first_date": "2010-12-01 08:26:00",
+    "last_date": "2011-12-09 12:50:00",
+    "anonymous_orders": 1371,
+    "anonymous_sales": "1509593.23"
+  },
+  "segments": [
+    {
+      "segment": "Ngủ đông",
+      "customers": 1171,
+      "sales": "570958.11"
+    },
+    {
+      "segment": "Đang phát triển",
+      "customers": 1165,
+      "sales": "776538.37"
+    },
+    {
+      "segment": "Thân thiết",
+      "customers": 973,
+      "sales": "1432745.86"
+    },
+    {
+      "segment": "Giá trị cao",
+      "customers": 747,
+      "sales": "5511232.02"
+    },
+    {
+      "segment": "Có nguy cơ rời bỏ",
+      "customers": 278,
+      "sales": "445753.28"
+    }
+  ],
+  "invoice_time_normalization": 42,
+  "country_changes": 169,
+  "cohort_last_complete_month": "2011-11-01",
+  "top_products": [
+    {
+      "stock_code": "22423",
+      "product": "REGENCY CAKESTAND 3 TIER",
+      "sales": "174156.54"
+    },
+    {
+      "stock_code": "23843",
+      "product": "PAPER CRAFT , LITTLE BIRDIE",
+      "sales": "168469.60"
+    },
+    {
+      "stock_code": "85123A",
+      "product": "CREAM HANGING HEART T-LIGHT HOLDER",
+      "sales": "104462.75"
+    },
+    {
+      "stock_code": "47566",
+      "product": "PARTY BUNTING",
+      "sales": "99445.23"
+    },
+    {
+      "stock_code": "85099B",
+      "product": "JUMBO BAG RED RETROSPOT",
+      "sales": "94159.81"
+    }
+  ],
+  "outlier_lines": [
+    {
+      "invoice_no": "581483",
+      "stock_code": "23843",
+      "quantity": 80995,
+      "unit_price": "2.080000",
+      "sales_amount": "168469.60"
+    },
+    {
+      "invoice_no": "541431",
+      "stock_code": "23166",
+      "quantity": 74215,
+      "unit_price": "1.040000",
+      "sales_amount": "77183.60"
+    },
+    {
+      "invoice_no": "556444",
+      "stock_code": "22502",
+      "quantity": 60,
+      "unit_price": "649.500000",
+      "sales_amount": "38970.0"
+    },
+    {
+      "invoice_no": "567423",
+      "stock_code": "23243",
+      "quantity": 1412,
+      "unit_price": "5.060000",
+      "sales_amount": "7144.72"
+    },
+    {
+      "invoice_no": "540815",
+      "stock_code": "21108",
+      "quantity": 3114,
+      "unit_price": "2.100000",
+      "sales_amount": "6539.4"
+    }
+  ]
+}

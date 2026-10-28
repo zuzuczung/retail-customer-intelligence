@@ -1,0 +1,848 @@
+{
+  "checks": [
+    {
+      "chart": "sales",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "orders",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "known",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "aov",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "monthly-sales",
+      "scenario": "all",
+      "rows": 13,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "country-sales",
+      "scenario": "all",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "overview-products",
+      "scenario": "all",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "units",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "products",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "adjustments",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-detail",
+      "scenario": "all",
+      "rows": 30,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-customers",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-avg",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-risk",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-customers",
+      "scenario": "all",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-sales",
+      "scenario": "all",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "customer-detail",
+      "scenario": "all",
+      "rows": 20,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-customers",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-m1",
+      "scenario": "all",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-heatmap",
+      "scenario": "all",
+      "rows": 78,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-curve",
+      "scenario": "all",
+      "rows": 12,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-size",
+      "scenario": "all",
+      "rows": 12,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "sales",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "orders",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "known",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "aov",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "monthly-sales",
+      "scenario": "France",
+      "rows": 13,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "country-sales",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "overview-products",
+      "scenario": "France",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "units",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "products",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "adjustments",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-detail",
+      "scenario": "France",
+      "rows": 30,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-customers",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-avg",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-risk",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-customers",
+      "scenario": "France",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-sales",
+      "scenario": "France",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "customer-detail",
+      "scenario": "France",
+      "rows": 20,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-customers",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-m1",
+      "scenario": "France",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-heatmap",
+      "scenario": "France",
+      "rows": 78,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-curve",
+      "scenario": "France",
+      "rows": 12,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-size",
+      "scenario": "France",
+      "rows": 12,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "sales",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "orders",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "known",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "aov",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "monthly-sales",
+      "scenario": "Q1-2011",
+      "rows": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "country-sales",
+      "scenario": "Q1-2011",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "overview-products",
+      "scenario": "Q1-2011",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "units",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "products",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "adjustments",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-detail",
+      "scenario": "Q1-2011",
+      "rows": 30,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-customers",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-avg",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-risk",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-customers",
+      "scenario": "Q1-2011",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-sales",
+      "scenario": "Q1-2011",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "customer-detail",
+      "scenario": "Q1-2011",
+      "rows": 20,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-customers",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-m1",
+      "scenario": "Q1-2011",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-heatmap",
+      "scenario": "Q1-2011",
+      "rows": 30,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-curve",
+      "scenario": "Q1-2011",
+      "rows": 11,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-size",
+      "scenario": "Q1-2011",
+      "rows": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "sales",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "orders",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "known",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "aov",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "monthly-sales",
+      "scenario": "France-Q1",
+      "rows": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "country-sales",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "overview-products",
+      "scenario": "France-Q1",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "units",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "products",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "adjustments",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-detail",
+      "scenario": "France-Q1",
+      "rows": 30,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-customers",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-avg",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-risk",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-customers",
+      "scenario": "France-Q1",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-sales",
+      "scenario": "France-Q1",
+      "rows": 5,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "customer-detail",
+      "scenario": "France-Q1",
+      "rows": 20,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-customers",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-m1",
+      "scenario": "France-Q1",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-heatmap",
+      "scenario": "France-Q1",
+      "rows": 30,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-curve",
+      "scenario": "France-Q1",
+      "rows": 11,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-size",
+      "scenario": "France-Q1",
+      "rows": 3,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "sales",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "orders",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "known",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "aov",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "monthly-sales",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "country-sales",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "overview-products",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "units",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "products",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "adjustments",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-detail",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-customers",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-avg",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "rfm-risk",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-customers",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "segment-sales",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "customer-detail",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-customers",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-m1",
+      "scenario": "empty",
+      "rows": 1,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-heatmap",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "retention-curve",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "cohort-size",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-sales",
+      "scenario": "all",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-units",
+      "scenario": "all",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-sales",
+      "scenario": "France",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-units",
+      "scenario": "France",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-sales",
+      "scenario": "Q1-2011",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-units",
+      "scenario": "Q1-2011",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-sales",
+      "scenario": "France-Q1",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-units",
+      "scenario": "France-Q1",
+      "rows": 10,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-sales",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    },
+    {
+      "chart": "product-units",
+      "scenario": "empty",
+      "rows": 0,
+      "passed": true,
+      "error": null
+    }
+  ],
+  "passed": 120,
+  "total": 120,
+  "dashboard_linked_chart_count": 24,
+  "expected_chart_count": 24
+}
