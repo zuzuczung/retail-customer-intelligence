@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/raw/*
+data/interim/*
+artifacts/*export*.zip
+*.egg-info/
+
+# Local design previews and publication receipts
+docs/demo-preview.html
+docs/demo-validation.md
+artifacts/rfm-analysis.html
+artifacts/publication-receipt.json
+!artifacts/retail_superset_dashboard_export.zip
+
+.work/

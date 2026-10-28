@@ -1,0 +1,9 @@
+{
+  "source": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "download_url": "https://archive.ics.uci.edu/static/public/352/online%2Bretail.zip",
+  "citation": "Chen, D. (2015). Online Retail. UCI. DOI: 10.24432/C5BW33",
+  "license": "CC BY 4.0",
+  "xlsx_sha256": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d",
+  "archive_sha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "retrieved_on": "2026-10-28"
+}

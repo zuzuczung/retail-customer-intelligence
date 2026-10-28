@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retail-customer-intelligence"
+version = "0.1.0"
+description = "UCI Online Retail pipeline and Apache Superset dashboard"
+requires-python = ">=3.11"
+dependencies = ["requests==2.32.5", "psycopg[binary]==3.2.10", "python-dotenv==1.1.1", "openpyxl==3.1.5"]
+
+[project.scripts]
+retail-bi = "retail_bi.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["retail_bi*"]
